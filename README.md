@@ -8,7 +8,7 @@
 
 A modern, responsive portfolio website showcasing my work as a creative developer and designer. Built with cutting-edge technologies to deliver exceptional user experiences.
 
-![Portfolio Preview](./src/assets/ayush.jpg)
+
 
 ## ✨ Features
 
@@ -146,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ayush**
 - **Email**: [ayushbire123@gmail.com](mailto:ayushbire123@gmail.com)
 - **GitHub**: [github.com/ayush](https://github.com/AyushBire9)
-- **Portfolio**: [ayush.dev](https://ayush.dev)
+
 
 ---
 
